@@ -13,13 +13,15 @@ You can click the Preview link to take a look at your changes.
 <h3 >A passionate frontend developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelima-git" alt="neelima-git" /></a> </p>
 
 - 🌱 I’m currently learning **backend technologies**
 
 - 👯 I’m looking to collaborate on **front-end development**
 
 - 📫 How to reach me **bellana.neelima2@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelima-git" alt="neelima-git" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
