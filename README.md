@@ -1,7 +1,7 @@
 <!-- - 👋 Hi, I’m Neelima Bellana
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning backend technologies
-- 💞️ I’m looking to collaborate on front end development
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me bellana.neelima2@gmail.com
  -->
 <!---
