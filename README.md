@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi 👋, I'm Neelima Bellana</h1>
-<h3 >A passionate frontend developer from India</h3>
+<h3 >A passionate web developer from India</h3>
 
 
 
-- 🌱 I’m currently learning **backend technologies**
+- 🌱 I’m currently learning **ML**
 
 - 👯 I’m looking to collaborate on **front-end development**
 
