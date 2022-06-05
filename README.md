@@ -2,8 +2,9 @@
 Neelima-git/Neelima-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Neelima! 
+## Hey 👋, I'm Neelima! 
 <h3 >A passionate web developer from India</h3>
 
 
