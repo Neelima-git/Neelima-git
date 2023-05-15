@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **bellana.neelima2@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelima-git" alt="neelima-git" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelima-git" alt="neelima-git" /></a> </p> -->
 
 
 <h3 align="left">Connect with me:</h3>
